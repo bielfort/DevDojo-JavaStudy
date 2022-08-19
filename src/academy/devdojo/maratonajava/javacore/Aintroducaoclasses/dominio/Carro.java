@@ -1,4 +1,4 @@
-package javacore.introducaoclasses.dominio;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio;
 
 public class Carro {
     public String modelo;
