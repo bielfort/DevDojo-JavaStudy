@@ -21,6 +21,11 @@ public class EstudanteTest01 {
         impressora.imprime(estudante01);
         impressora.imprime(estudante02);
 
+        System.out.println("##################");
+        // fim da referência ao metodo estudante
+        impressora.imprime(estudante01);
+        impressora.imprime(estudante01);
+
 
 
 
