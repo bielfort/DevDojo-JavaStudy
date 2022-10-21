@@ -22,7 +22,7 @@ public class Anime {
     public Anime() {
         for(int episodio: this.episodios){
             System.out.print(episodio + " ");
-        }
+            }
     }
 
     public String getNome() {
