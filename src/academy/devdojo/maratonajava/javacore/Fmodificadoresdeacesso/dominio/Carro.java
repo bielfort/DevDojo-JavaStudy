@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Fmodificadoresdeacesso.domain;
+package academy.devdojo.maratonajava.javacore.Fmodificadoresdeacesso.dominio;
 
 public class Carro {
     private String nome;

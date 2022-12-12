@@ -1,5 +1,5 @@
 package academy.devdojo.maratonajava.javacore.Fmodificadoresdeacesso.test;
-import academy.devdojo.maratonajava.javacore.Fmodificadoresdeacesso.domain.Carro;
+import academy.devdojo.maratonajava.javacore.Fmodificadoresdeacesso.dominio.Carro;
 
 public class carroTest01 {
     public static void main(String[] args) {
