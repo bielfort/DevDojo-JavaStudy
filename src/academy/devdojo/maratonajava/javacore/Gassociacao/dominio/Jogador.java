@@ -11,6 +11,8 @@ public class Jogador {
         }
     }
 
+
+
     public Time getTime() {
         return time;
     }
